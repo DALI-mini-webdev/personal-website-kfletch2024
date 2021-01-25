@@ -13,3 +13,13 @@ h2 {
 h3{
   text-color: White;
 }
+
+img[src="jpg"] {
+  width:...;
+  height:...;
+}
+
+img[src="jpg"] {
+  width:...;
+  height:...;
+}
