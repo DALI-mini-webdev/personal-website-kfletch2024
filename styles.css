@@ -14,9 +14,9 @@ h3{
   text-color: White;
 }
 
-img[src="jpg"] {
-  width:...;
-  height:...;
+img[src="http://www.freeimageslive.com/galleries/sports/sportsgames/pics/airmaxshoe.jpg"] {
+  width:100px;
+  height:50px;
 }
 
 img[src="jpg"] {
